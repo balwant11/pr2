@@ -4,7 +4,7 @@ function Navigation() {
   return (
     <nav className={`${styles.navigation} container `}>
         <div className="logo">
-        <img src='/images/Frame.png' alt='logo' />
+        <img src='./images/Frame.png' alt='logo' />
         </div>
         <ul>
             <li>Home</li>
